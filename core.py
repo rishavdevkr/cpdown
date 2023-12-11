@@ -152,7 +152,7 @@ def time_name():
 
 
 async def download_video(url,cmd, name):
-    download_cmd = f'{cmd} [
+    download_cmd = f'{cmd}[
               "yt-dlp",
               "--no-warnings",
               "--socket-timeout",
