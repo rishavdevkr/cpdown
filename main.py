@@ -27,14 +27,14 @@ bot = Client(
 
 @bot.on_message(filters.command(["start"]))
 async def account_login(bot: Client, m: Message):
-    editable = await m.reply_text("Hi!\n\nGive /txt Command to Downlaod From a Text file.\n")
+    editable = await m.reply_text("Hi!\n\nGive /classplus Command and send me Text file to Downlaod.\n")
 
 @bot.on_message(filters.command("restart"))
 async def restart_handler(_, m):
-    await m.reply_text("**Restarted**🚦", True)
+    await m.reply_text("**I'm Restarted**🚦", True)
     os.execl(sys.executable, sys.executable, *sys.argv)
 
-@bot.on_message(filters.command(["txt"]))
+@bot.on_message(filters.command(["classplus"]))
 async def account_login(bot: Client, m: Message):
     editable = await m.reply_text('Hi\n\nTO download a test file send here » ')
     input: Message = await bot.listen(editable.chat.id)
