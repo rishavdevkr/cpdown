@@ -1,4 +1,4 @@
-# Rishav'S Classplus Text Downloader via Text File
+# Rishav'S Classplus Videos Downloader via Text File
 
 ## Deploy To Heroku
 
