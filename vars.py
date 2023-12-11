@@ -5,3 +5,5 @@ auth_users = [1713924419]
 sudo_user = 1713924419
 log_channel = -1002143629860
 txt_channel = -1002049391187
+
+
