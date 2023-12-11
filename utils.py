@@ -14,7 +14,6 @@ class Timer:
             return True
         return False
 
-
 from datetime import datetime,timedelta
 
 #lets do calculations
