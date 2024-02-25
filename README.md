@@ -3,11 +3,9 @@
 ## How to Deploy? 🤔. you can deploy over Heroku or your VPS too.
 1. First Click on Star
 2. Then Fork This Repo
-3. Then Deploy Over Heroku
+3. Then Deploy Over Vps
 
-<a href="https://heroku.com/deploy?template=https://github.com/rishavdevkr/cpdown">
-     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
-  </a>
+note This Repo will only work in VPS.
 
 ## Deploy to vps
 
