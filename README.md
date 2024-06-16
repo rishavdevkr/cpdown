@@ -11,8 +11,8 @@ note This Repo will only work in VPS.
 
 ```
 sudo apt update
-git clone your_repo_link
-cd Save_restricted_bot
+git clone https://github.com/rishavdevkr/cpdown
+cd cpdown
 pip3 install -r requirements.txt
 python3 main.py
 Note:- use (nohup python3 main.py) to run 24×7
