@@ -8,6 +8,7 @@
 note This Repo will only work in VPS.
 
 ## Deploy to vps
+before Deploying Change your Credentials in Vars.py
 
 ```
 sudo apt update
